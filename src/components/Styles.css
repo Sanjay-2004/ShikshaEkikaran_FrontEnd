@@ -1,0 +1,122 @@
+.nav-item:hover{
+    background-color: #def2f1;
+    border-radius: 5px;
+}
+.main-title{
+    font-size: 60px
+}
+.description{
+    font-size: 25px
+}
+.containers{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+label.showing{
+    background-color: #2b7a78;
+    color: #feffff;
+    cursor: pointer;
+    border-radius: 8px;
+}
+label.showing:hover{
+    background-color: #339591;
+    color: #feffff;
+}
+button.register{
+    background-color: #def2f1;
+    color: #17252a;
+    cursor: pointer;
+    border-radius: 8px;
+}
+button.register:hover{
+    background-color: #b5e2df;
+    color: #17252a;
+}
+li{
+    text-align: center;
+}
+.login{
+    background-color: #2b7a78;
+    color: #feffff;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+}
+.login:hover{
+    background-color: #339591;
+    color: #feffff;
+}
+.popup{
+    background-color: #66B0AD;
+}
+.color{
+    background-color: #CCE5E4;
+}
+.forgot{
+    text-decoration: none;
+    color: #17252a;
+}
+.sub-title{
+    font-size: 40px
+}
+.sub-description{
+    font-size: 20px
+}
+.card.mb-3{
+    width: 100%
+}
+.mails{
+    text-decoration: none;
+    color: #339591;
+}
+.header{
+    background-color: #b5dbd8;
+    color: #17252a;
+}
+.card-text{
+    font-size: large;
+}
+.d-flex{
+    align-items: center;
+}
+.filter{
+    background-color: #b5dbd8;
+    color: #17252a;
+}
+.profile{
+    border-radius: 100%;
+}
+.btn-green{
+    border: 2px solid #15504b;
+    cursor: pointer;
+}
+.btn-green:focus{
+    color: #17252a;
+    background-color: #649995;
+}
+.insts{
+    color: #17252a;
+}
+.insts:hover{
+    background-color: #7daba8;
+    color: #17252a;
+    border-radius: 10px;
+}
+.insts:focus{
+    color: #17252a;
+}
+.state{
+    width: 80%;
+    font-size: larger;
+}
+.dates{
+    border:1px solid black;
+    border-radius:5px;
+}
+.filters{
+    background-color:#b5dbd8;
+    text-decoration: none;
+}
+                
+                
